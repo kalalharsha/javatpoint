@@ -1,0 +1,49 @@
+<html>
+<head>
+<meta name="viewport"  content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="favicon.jpg">
+<title>Tutorials List - Javatpoint</title>
+<link rel="stylesheet" href="jtp.css">
+
+</head>
+
+
+ <body>
+<div style="clear:both;float:left;width:230px;margin-top:15px;margin-left:20px">  
+<img src="jtp_logo.jpg" alt="Javatpoint Logo" />
+</div>
+
+
+
+<div id="link" style="clear:both"> <div class="menu"><ul>
+    <li><a><img src="home.jpg" alt="home" /> Home</a></li>
+    <li><a ><img src="python.jpg" alt="python" /> Python</a></li>
+    <li><a ><img src="java.jpg" alt="java" /> Java</a></li>
+    <li><a ><img src="js.jpg" alt="javascript" /> JavaScript</a></li>
+    <li><a ><img src="html.jpg" alt="html" /> HTML</a></li>
+    <li><a ><img src="sql.jpg" alt="sql" /> SQL</a></li>
+    <li><a ><img src="php.jpg" alt="php" /> PHP</a></li>
+    <li><a ><img src="csharp.jpg" alt="c#" /> C#</a></li>
+    <li><a ><img src="cpp.jpg" alt="c++" /> C++</a></li>
+    <li><a ><img src="ds.jpg" alt="data structures" /> DS</a></li>
+    <li><a ><img src="aptitude.jpg" alt="aptitude" /> Aptitude</a></li>
+    <li><a ><img src="reasoning.jpg" alt="reasoning" /> Reasoning</a></li>
+    <li><a ><img src="selenium01.jpg" alt="selenium" /> Selenium</a></li>
+    <li><a ><img src="dbms.jpg" alt="dbms" /> DBMS</a></li>
+    <li><a ><img src="c.jpg" alt="c" /> C</a></li>
+    <li><a ><img src="android.jpg" alt="android" /> Android</a></li>
+    <li><a ><img src="interview.jpg" alt="interview questions" /> Interview Q</a></li>
+    </ul><br style="clear: left" /></div>
+</div>
+
+
+
+
+
+
+
+
+
+ </body>
+ 
+</html>
